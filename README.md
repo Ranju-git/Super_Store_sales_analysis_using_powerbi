@@ -9,6 +9,9 @@ Total Profit: 16.89M
 Total Units Sold: 1.13M
 Total COGS: 101.83M
 
+# Dashboard Screenshot
+<img width="1165" height="483" alt="image" src="https://github.com/user-attachments/assets/51e65150-f4e3-4dcf-8d21-c436dae4b3ff" />
+
 # Dashboard Features
 KPI Cards: High-level metrics for quick business overview
 Segment Analysis: Profit distribution across Government, Small Business, Enterprise, etc.
